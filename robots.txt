@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hiremeifucan.com/sitemap.xml
